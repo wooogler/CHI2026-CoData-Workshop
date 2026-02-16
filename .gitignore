@@ -1,0 +1,45 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+## LaTeX intermediate files
+*.dvi
+*.xdv
+*-converted-to.*
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## LaTeX build tool files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+## LaTeX environment files
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+## Other
+*.backup
+*~
+.DS_Store
+
+# Draft Korean translation (not for Overleaf)
+draft_korean.md
